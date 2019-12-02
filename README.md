@@ -1,4 +1,4 @@
-#Project Title
+Project Title
 Factors Affecting Global Warming
 
 Over the past 50 years, the average global temperature has increased at the fastest rate in recorded history. And experts see the trend is accelerating: All but one of the 16 hottest years in NASA’s 134-year record have occurred since 2000.
@@ -8,5 +8,5 @@ In the United States, the burning of fossil fuels to make electricity is the lar
 
 In this project our group tried to study how various factors such as C02 emission, urbanization and depleting forest cover across top 5 most populas countries have impacted the change in temperature in these 5 countries.
 
-#Tools Used
+Tools Used
 Python, Pandas -> numpy, matplotlib
