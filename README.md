@@ -18,7 +18,6 @@ To install the above packages using pip, use command
 ```$pip install package-name```
 
 ### Files Description
-- CC_data.csv: This is the dataset file for the project
 - main.ipynb: The jupyter notebook which includes the analysis
 
 ### Usage
