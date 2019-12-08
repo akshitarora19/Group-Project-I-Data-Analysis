@@ -7,7 +7,7 @@ Global warming occurs when carbon dioxide (CO2) and other air pollutants and gre
 
 In the United States, the burning of fossil fuels to make electricity is the largest source of heat-trapping pollution, producing about two billion tons of CO2 every year. Coal-burning power plants are by far the biggest polluters. The country’s second-largest source of carbon pollution is the transportation sector, which generates about 1.7 billion tons of CO2 emissions a year.
 
-In this project our group tried to study how various factors such as C02 emission, urbanization and depleting forest cover across top 5 most populas countries have impacted the change in temperature in these 5 countries.
+In this project we studied and correlated how various factors such as C02 emission, urbanization and depleting forest cover across top 5 most populas countries have impacted the change in temperature in these 5 countries.
 
 ### Libraries Used
   - pandas
