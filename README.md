@@ -23,8 +23,6 @@ To install the above packages using pip, use command
 - GetCountryList.py gets the list of 6 most populated countries
 - TemperatureData.py extracts the temperature data from 1960 to 2013 for the above 5 countries and considers relative temperature change for each country from 1960 to 2013.
 - CreateDictOfDataFrames.py returns a dictionary of dataframes (of all the factors taken into consideration)
-=======
->>>>>>> 0f80b05787cc8d6c63cb3be9e7ec5fc9b4b52da1
 
 ### Usage
   - Run the jupyter notebook main.ipynb
